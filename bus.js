@@ -2,14 +2,23 @@ console.log("bus.js");
 
 // print a thing when a button is clicked
 /*
-
-document.querySelector(".change").addEventListener("click", function () {
+document.querySelector(".change").addEventListener("click", function (e) {
+  e.preventDefault();
 let seatStatus=document.querySelector(".seat_status").value;
 if(seatStatus.startsWith("o")){
   console.log("kap");
   document.querySelector(".seat_now1").style.backgroundColor="#F47174";
-}});
+}
+if(seatStatus.startsWith("f")){
+  console.log("kap");
+  document.querySelector(".seat_now1").style.backgroundColor="#4caf50";
+}
+if(seatStatus.startsWith("r")){
+  console.log("kap");
+  document.querySelector(".seat_now1").style.backgroundColor="#Ffffe0";
+}
 
+});
 */
 document.querySelector(".seat_now1").addEventListener("click", function () {
   let val = document.querySelector(".seat_now1").value;
