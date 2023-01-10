@@ -1,0 +1,98 @@
+/*style the bus html and seperate the buttons in columns*/
+.bus {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*style the buttons*/
+.seat_now {
+  width: 100px;
+  height: 80px;
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 55%;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.bus div {
+  /*make the divs in the bus html into rows*/
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.bus {
+  margin-top: 0px;
+}
+.bus__seat {
+  margin: 15px;
+}
+.seat_now:hover {
+  background-color: #a4e0a6;
+}
+.seat_now:active {
+  background-color: #4caf50;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+  margin-top: 50px;
+}
+.y {
+  background-color: rgb(219, 219, 101);
+  font-size: 20px;
+}
+.r {
+  background-color: rgb(194, 78, 78);
+  font-size: 20px;
+}
+.g {
+  background-color: #4caf50;
+  font-size: 20px;
+}
+.seat_name,
+.seat_status {
+  border: none;
+  border-bottom: black solid 1px;
+  text-decoration: none;
+}
+.seat_status {
+  font-size: 20px;
+  height: 40px;
+  padding-left: 25px;
+}
+.seat_name {
+  font-size: 20px;
+  height: 40px;
+  padding-left: 25px;
+}
+.change {
+  color: white;
+  background-color: black;
+  width: 200px;
+  height: 50px;
+}
+.change:hover {
+  background-color: rgb(180, 180, 180);
+  border-color: rgb(180, 180, 180);
+  cursor: pointer;
+}
+
+/*
+green #4caf50
+*/
