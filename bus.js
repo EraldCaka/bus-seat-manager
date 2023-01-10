@@ -1,6 +1,16 @@
 console.log("bus.js");
 
 // print a thing when a button is clicked
+/*
+
+document.querySelector(".change").addEventListener("click", function () {
+let seatStatus=document.querySelector(".seat_status").value;
+if(seatStatus.startsWith("o")){
+  console.log("kap");
+  document.querySelector(".seat_now1").style.backgroundColor="#F47174";
+}});
+
+*/
 document.querySelector(".seat_now1").addEventListener("click", function () {
   let val = document.querySelector(".seat_now1").value;
   document.querySelector(".seat_name").value = val;
