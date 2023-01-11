@@ -6,7 +6,7 @@ Functionalities
 <li>Update seat's state</li>
 <li>Click the seat</li>
 <li>add the status on the input box to change the seat's status</li>
-<li></li>
+
 
 
 Screenshot of the Webpage
