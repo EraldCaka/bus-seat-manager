@@ -13,6 +13,6 @@ Screenshot of the Webpage
 -
 ![image](https://user-images.githubusercontent.com/96385473/211688569-c83f3ba5-914a-4671-8da5-c36e4cd0b9fa.png)
 
-Screenshot of the mySql
+Screenshot of mySql table
 -
 ![image](https://user-images.githubusercontent.com/96385473/211691156-5924ada8-ca97-4e07-9eef-60f693e05c06.png)
