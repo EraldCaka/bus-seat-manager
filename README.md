@@ -17,4 +17,4 @@ Screenshot of mySql table
 -
 ![image](https://user-images.githubusercontent.com/96385473/211691156-5924ada8-ca97-4e07-9eef-60f693e05c06.png)
 --------
-<strong>Contributors :[Hideki Natsumi](https://github.com/HidekiNatsumi) and [Ervin Balla](https://github.com/ViniCS2001)</strong>
+<strong>Contributors :[Hideki Natsumi](https://github.com/HidekiNatsumi)
