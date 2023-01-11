@@ -1,4 +1,4 @@
-# bus-seat-manager
+# Bus-seat-manager
 This is a school assignment in php we had to make a bus seat manager if it either occupied/free/reserved also using mySql database to store seat's current status
 
 Functionalities
