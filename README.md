@@ -1,5 +1,5 @@
 # Bus-seat-manager
-This is a school assignment in php we had to make a bus seat manager that has to show if it is either occupied/free/reserved also using mySql database to store seat's current status and also to input the desired new seat status change.
+This is a school assignment in php.We had to make a bus seat manager that has to show if it is either occupied/free/reserved also using mySql database to store seat's current status and also to input the desired new seat status change.
 
 Functionalities
 -
